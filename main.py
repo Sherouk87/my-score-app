@@ -3,7 +3,7 @@ st.markdown(
     """
 <style>
 .stApp{
-background-image:url("https://www.google.com/search?sca_esv=0066cc4b3f6e172b&rlz=1C1YTUH_enEG1121EG1121&sxsrf=ANbL-n5f2qF4pIOwIhho4AjhHElGXaHYmw:1771871624903&udm=2&fbs=ADc_l-ZZQ33S6yhUgl80iFaiqdDgBxFVlXcWp4zX-xfHrNZs5oqQuodA0CZXKbLivSQ2QIsygz2X7VREjePlJqAWnuUzyDmzlwx8zhQAr5gxtOL2aCYCWEuDIKN2mhytgzArmFgHE30obT_mJNnrEiNxLBJ5VzSOXUk_qswlAUkX7ZzxffXYigMDLraK7Z4DRt9vgHlk2-fAt06k-e4Pj-bpZXCVPadpYds56uPtJkRdMVXgCYq050LX1lOaMHutMIl25CfxTEGxjPNbF2aFX64qj16uXRLLbw&q=ntg+clarity&sa=X&sqi=2&ved=2ahUKEwjOwqiWoPCSAxWaRUEAHf0zAVcQtKgLegQIGRAB&biw=1366&bih=641&dpr=1#sv=CAMSXhoyKhBlLXdLUnhNaXlNR1p5RmhNMg53S1J4TWl5TUdaeUZoTToOdWRqa0VRMUZrRmJCMk0gBCokCg4yWlFlXzVjNWpMdmQ2TRIQZS13S1J4TWl5TUdaeUZoTRgAMAEYByDJjaisATACSggQAhgCIAIoAg");
+background-image:url("cropped-NTG-Clarity-Logo-pk6lqv2fycz2q45ipyjvxu52cjouaxf1yuxe4lxjk2");
 background-repeat:no-repeat;
 background-attachment:fixed;
 background-position:center;
